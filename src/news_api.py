@@ -11,7 +11,7 @@ def get_news(api_key, query='latest'):
 
 # Example usage
 if __name__ == "__main__":
-    api_key = 'b3358f544fb1474e9f1ff968dd2f6258'
+    api_key = 'YOUR_API_KEY'
     news = get_news(api_key)
     for headline in news:
         print(headline)
