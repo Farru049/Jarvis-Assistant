@@ -1,6 +1,3 @@
-Got it! Here is the entire `README.md` content as a single snippet:
-
-```markdown
 # Jarvis Voice Assistant
 
 A smart voice assistant application built using Python. Jarvis can perform various tasks such as fetching weather updates, providing news headlines, and responding to user commands through speech. This project leverages speech recognition, text-to-speech, and external APIs to provide a seamless user experience.
@@ -19,7 +16,6 @@ To get started with Jarvis Voice Assistant, follow these steps:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/jarvis_voice_assistant.git
-   ```
 
 2. **Navigate to the Project Directory**
    ```bash
