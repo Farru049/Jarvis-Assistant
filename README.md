@@ -101,7 +101,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, feel free to reach out via [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out via [alifarhaan655@gmail.com](mailto:your-alifarhaan655@gmail.com).
 ```
-
-You can copy and paste this entire snippet into your `README.md` file directly. Adjust the placeholders as needed.
